@@ -8,8 +8,8 @@ Kullanıcının verdiği **hassaslık**, **miktar** ve **kirlilik** değerlerine
 
 - C# (.NET Windows Forms)
 - DataGridView (kurallar ve giriş/çıkış değerleri yönetimi)
-- Mamdani bulanık çıkarım yöntemi
-
+- Chart
+  
 ## 📥 Giriş Değişkenleri
 
 | Giriş        | Üyelik Fonksiyonları     |
@@ -22,8 +22,8 @@ Kullanıcının verdiği **hassaslık**, **miktar** ve **kirlilik** değerlerine
 
 | Çıkış         | Üyelik Fonksiyonları             |
 |----------------|----------------------------------|
-| Dönüş Hızı     | Hassas, Normal_Hassas, Orta, Güçlü |
-| Süre           | Kısa, Normal_Kısa, Orta, Uzun     |
+| Dönüş Hızı     | Hassas, Normal_Hassas, Orta, Normal_Güçlü, Güçlü |
+| Süre           | Kısa, Normal_Kısa, Orta,Normal_Uzun, Uzun |
 | Deterjan Miktarı | Çok Az, Az, Orta, Fazla, Çok Fazla |
 
 ## 🧠 Bulanık Çıkarım Sistemi
@@ -38,7 +38,8 @@ Mamdani yöntemi şu adımlarla uygulanır:
 
 ## 📊 Ekran Görüntüsü
 
-![Uygulama Arayüzü](a5a936e5-31a6-4bfa-82a4-28a6cc8b83cb.png)
+![Ekran görüntüsü 2025-05-01 174349](https://github.com/user-attachments/assets/edb5fd94-7229-4e54-9bed-ca76c773889a)
+
 
 ## 📁 Projeyi Çalıştırma
 
